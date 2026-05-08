@@ -32,7 +32,7 @@ title: "Home"
       <p><strong>Compétences :</strong> Python · SQL · ETL · Data Pipelines · Docker · Linux · Git · Modélisation de données · Cloud (GCP / AWS)</p>
 
       <p class="social-links">
-        <a href="www.linkedin.com/in/anthony-touré" target="_blank" aria-label="LinkedIn">
+        <a href="https://www.linkedin.com/in/anthony-touré" target="_blank" aria-label="LinkedIn">
           <i class="fa-brands fa-linkedin"></i>
         </a>
       </p>
