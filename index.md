@@ -22,8 +22,6 @@ title: "Home"
 <section id="about" class="section">
   <div class="about-container">
     <img src="{{ '/assets/images/Gemini_Generated_Image_f5f5bsf5f5bsf5f5.png' | relative_url }}" alt="Anthony Toure" class="profile-pic" style="display: block; width: 350px; height: auto; margin: 0 auto; border-radius: 5px;">
-         alt="Anthony Toure"
-         class="profile-pic">
     
     <div class="about-text">
     <h1>Hello World! Je suis Anthony Toure</h1>
