@@ -25,7 +25,7 @@ title: "Home"
     
     <div class="about-text">
     <h1>Hello World! Je suis Anthony Toure</h1>
-      <p>Data Engineer | SQL | Python | Data Pipelines | ETL | Docker | Linux | Git</p>
+      <p>Data Engineer</p>
       <p>Création de pipelines de données, automatisation des flux ETL, transformation et modélisation de données, avec une approche orientée projets concrets et bonnes pratiques Data Engineering.</p>
       <p><strong>Compétences :</strong> Python · SQL · ETL · Data Pipelines · Docker · Linux · Git · Modélisation de données · Cloud (GCP / AWS)</p>
 
