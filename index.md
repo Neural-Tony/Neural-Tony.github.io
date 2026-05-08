@@ -22,21 +22,17 @@ title: "Home"
 <section id="about" class="section">
   <div class="about-container">
     <img src="{{ '/assets/images/me.jpeg' | relative_url }}"
-         alt="Michael Shoemaker"
+         alt="Anthony Toure"
          class="profile-pic">
 
-    <div class="about-text">
-      <h1>Hello World! I'm Michael Shoemaker</h1>
-      <p>Senior Data Analyst | Teacher | Content Creator | .5x Programmer</p>
-      <p>I build practical, production-like data engineering systems — orchestration, storage, transformations, serving, and observability — then explain the decisions behind them.</p>
-      <p><strong>Core skills:</strong> Python · SQL · Linux · Airflow · Spark · BigQuery · Docker · GCP</p>
+    <div Hello World! Je suis Anthony Toure</h1>
+      <p>Data Engineer | SQL | Python | Data Pipelines | ETL | Docker | Linux | Git</p>
+      <p>Création de pipelines de données, automatisation des flux ETL, transformation et modélisation de données, avec une approche orientée projets concrets et bonnes pratiques Data Engineering.</p>
+      <p><strong>Compétences :</strong> Python · SQL · ETL · Data Pipelines · Docker · Linux · Git · Modélisation de données · Cloud (GCP / AWS)</p>
 
       <p class="social-links">
-        <a href="https://www.linkedin.com/in/michaelshoemaker1" target="_blank" aria-label="LinkedIn">
+        <a href="www.linkedin.com/in/anthony-touré" target="_blank" aria-label="LinkedIn">
           <i class="fa-brands fa-linkedin"></i>
-        </a>
-        <a href="https://www.youtube.com/@dataslinger6379" target="_blank" aria-label="YouTube">
-          <i class="fa-brands fa-youtube"></i>
         </a>
       </p>
     </div>
