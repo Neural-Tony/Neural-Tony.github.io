@@ -21,7 +21,7 @@ title: "Home"
 
 <section id="about" class="section">
   <div class="about-container">
-    <img src="{{ '/assets/images/me.jpeg' | relative_url }}"
+    <img src="{{ '/assets/images/Gemini_Generated_Image_6io52g6io52g6io5.png' | relative_url }}"
          alt="Anthony Toure"
          class="profile-pic">
 
